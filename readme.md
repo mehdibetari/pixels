@@ -2,7 +2,7 @@
 
 Pictures containing resolutions represented by colored shapes for easy viewing
 
-## Most used from TV to mobile
+## Most used resolutions from TV to mobile
 ![preview most used](/4K_to_lower_screens-low.jpg)
 
 * 4096x2160 (4K) 
@@ -24,7 +24,7 @@ Pictures containing resolutions represented by colored shapes for easy viewing
 * 768x1024
 * 320x480
 
-## Apple Mac Screens
+## Apple Mac resolutions for screens
 ![preview](/MAC_screens-low.jpg)
 
 * 5120 x 2880 (iMac 27)
