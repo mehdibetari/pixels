@@ -3,7 +3,7 @@
 Pictures containing resolutions represented by colored shapes for easy viewing
 
 ## Most used resolutions from TV to mobile
-![preview most used](/4K_to_lower_screens-low.jpg)
+![preview most used](/pictures/4K_to_lower_screens-low.jpg)
 
 * 4096 x 2160 (4K) 
 * 3840 x 2160 (4K UHD)
@@ -25,7 +25,7 @@ Pictures containing resolutions represented by colored shapes for easy viewing
 * 320 x 480
 
 ## Apple Mac resolutions for screens
-![preview_mac_resolutions](/MAC_screens-low.jpg)
+![preview_mac_resolutions](/pictures/MAC_screens-low.jpg)
 
 * 5120 x 2880 (iMac 27)
 * 4096 x 2304 (iMac 21,5)
@@ -36,7 +36,7 @@ Pictures containing resolutions represented by colored shapes for easy viewing
 * 2304 x 1440 (MACBOOK)
 
 ## Apple iPhone rendered pixels
-![preview_iphone_resolutions](/IPHONE_screens-low.jpg)
+![preview_iphone_resolutions](/pictures/iPhone_screens-low.jpg =350x)
 
 * 1242 x 2688 (11 Pro Max, Xs Max)
 * 828 x 1792 (11, Xs)
