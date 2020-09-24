@@ -36,7 +36,7 @@ Pictures containing resolutions represented by colored shapes for easy viewing
 * 2304 x 1440 (MACBOOK)
 
 ## Apple iPhone rendered pixels
-![preview_iphone_resolutions](/pictures/iPhone_screens-low.jpg)
+![preview_iphone_resolutions](/pictures/iPhone_screens-low.jpg =350x)
 
 * 1242 x 2688 (11 Pro Max, Xs Max)
 * 828 x 1792 (11, Xs)
